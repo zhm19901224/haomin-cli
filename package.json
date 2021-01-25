@@ -1,0 +1,27 @@
+{
+  "name": "hm-cli",
+  "version": "1.0.0",
+  "description": "a cli wedget for webpack program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhm19901224/hm-cli.git"
+  },
+  "author": "zhanghaomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhm19901224/hm-cli/issues"
+  },
+  "homepage": "https://github.com/zhm19901224/hm-cli#readme",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "download-git-repo": "^3.0.2",
+    "nodemon": "^2.0.7"
+  },
+  "bin": {
+    "my-cli": "bin/index.js"
+  }
+}
