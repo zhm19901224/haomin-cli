@@ -1,5 +1,5 @@
 {
-  "name": "hm-cli",
+  "name": "haomin-cli",
   "version": "1.0.0",
   "description": "a cli wedget for webpack program",
   "main": "index.js",
@@ -22,6 +22,6 @@
     "nodemon": "^2.0.7"
   },
   "bin": {
-    "my-cli": "bin/index.js"
+    "haomin-init": "bin/index.js"
   }
 }
